@@ -4,9 +4,21 @@
 #menu-2.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#menu-2 .mbr-navbar__section {
+  background: #2c2c2c;
+}
 #menu-2 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #slider-4 H1 {
   color: #e205a3;
+}
+#msg-box4-e .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-article {
+  color: #ffffff;
 }
