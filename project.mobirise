@@ -510,7 +510,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -539,7 +539,12 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-f"
+          "_anchor": "contacts1-f",
+          "_styles": {
+            "P": {
+              "color": "#2c82c9"
+            }
+          }
         }
       ]
     }
