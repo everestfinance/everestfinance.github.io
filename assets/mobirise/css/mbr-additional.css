@@ -13,6 +13,9 @@
 #slider-4 H1 {
   color: #e205a3;
 }
+#form1-d .mbr-header__text {
+  color: #000000;
+}
 #msg-box4-e .mbr-header__text {
   color: #ffffff;
 }
@@ -23,5 +26,12 @@
   color: #ffffff;
 }
 #contacts1-f P {
-  color: #2c82c9;
+  color: #e205a3;
+  text-align: right;
+}
+#contacts1-f STRONG {
+  color: #000000;
+}
+#contacts1-f B {
+  color: #000000;
 }
